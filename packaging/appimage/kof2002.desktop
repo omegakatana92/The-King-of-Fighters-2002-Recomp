@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=The King of Fighters 2002
+Comment=Static recompilation of KOF 2002 for Neo Geo (neogeorecomp)
+Exec=KOF2002
+Icon=kof2002
+Categories=Game;ArcadeGame;
+Terminal=false
+StartupNotify=false

@@ -1,0 +1,6 @@
+# tests/coin_start.txt - reach the KOF 2002 character-select screen.
+# Frame numbers count 59.19 Hz video frames from power-on; the BIOS
+# eye-catcher ends around 600 and the game's logo/title around 1200.
+900 coin
+1000 start
+1500 start

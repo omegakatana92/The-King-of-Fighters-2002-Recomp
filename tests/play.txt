@@ -1,0 +1,65 @@
+# tests/play.txt - scripted coverage session used by the `profile` target.
+#
+# It inserts a coin, starts a 1P game, picks the default team (Kyo,
+# Benimaru, Daimon), confirms the order, then moves, jumps and attacks for
+# several thousand frames.  This is a coverage aid, not a claim that every
+# menu or move was exercised.
+2000 coin
+2300 start
+4800 a
+5200 a
+5600 a
+6000 a
+6400 a
+7000-7600 right
+7200 a
+7400 b
+7800-8400 left
+8000 c
+8200 d
+8500 up
+8600 a
+8800 b
+9000-9600 right
+9200 c
+9400 d
+10000 a
+10200 b
+10400 c
+10600 d
+11000-11600 down
+11200 a
+11600 b
+12000-12600 left
+12200 c
+12600 d
+13000-13600 right
+13200 a
+13400 b
+13800-14400 up
+14000 c
+14200 d
+14800 a
+15000 b
+15200 c
+15400 d
+16000-16600 right
+16200 a
+16400 b
+16800-17400 left
+17000 c
+17200 d
+17800 a
+18000 b
+18200 c
+18400 d
+19000-19600 right
+19200 a
+19400 b
+19800-20400 left
+20000 c
+20200 d
+20800 a
+21000 b
+21200 c
+21400 d

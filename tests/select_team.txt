@@ -1,0 +1,10 @@
+# tests/select_team.txt - coin, start, choose three characters.
+900 coin
+1000 start
+1500 start
+3500 a
+3900 a
+4300 a
+4700 a
+5100 a
+5500 start
